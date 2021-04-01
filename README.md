@@ -40,5 +40,3 @@ Nela é possível ver, buscar, filtrar, favoritar e acompanhar o processo de pre
 A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
 
 O layout tem como foco dispositivos móveis.
-
----
