@@ -12,6 +12,20 @@ Este foi um projeto realizado para o curso de Desenvolvedor Web Full Stack da Tr
 
 ---
 
+## O QUE FOI DESENVOLVIDO
+
+Um app de receitas, utilizando Hooks e Context API.
+
+Nela é possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
+
+A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
+
+O layout tem como foco dispositivos móveis.
+
+Link do deploy: https://recipes-app-jp.herokuapp.com/
+
+---
+
 ## Lista de requisitos
 
 - Tela de Login
@@ -28,17 +42,3 @@ Este foi um projeto realizado para o curso de Desenvolvedor Web Full Stack da Tr
 - Tela de explorar ingredientes
 - Tela de explorar por local de origem/area
 - Tela de perfil
-
----
-
-## O QUE FOI DESENVOLVIDO
-
-Um app de receitas, utilizando Hooks e Context API.
-
-Nela é possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks!
-
-A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas.
-
-O layout tem como foco dispositivos móveis.
-
-Link do deploy: https://recipes-app-jp.herokuapp.com/
